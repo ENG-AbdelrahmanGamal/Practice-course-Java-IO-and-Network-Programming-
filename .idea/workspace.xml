@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d8c6b93-e3f0-4e41-ad87-aa3de159bc3f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IoNetCourse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BufferReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShowFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleSocket/FileCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleSocket/FileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleSocket/FileReaderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleSocket/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleSocket/SerializableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleSocket/SimpleSocketClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleSocket/SimpleSocketServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleSocket/ThreadEchoHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleSocket/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webData/URLConnectionTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/simpleSocket/SerializableDemo.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/simpleSocket/ThreadEchoHandler.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2gQ3hbKGesVUavnfO1lhmbJnKij" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BufferReader.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileCreate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileReaderDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SerializableDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ShowFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleSocketClient.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleSocketServer.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/abdelrahmangamal/DEPI/Tec/MetroEgypt&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Java&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.URLConnectionTest">
+    <configuration name="FileCreate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleSocket.FileCreate" />
+      <module name="IoNetCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simpleSocket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleSocket.FileDemo" />
+      <module name="IoNetCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simpleSocket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileReaderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleSocket.FileReaderDemo" />
+      <module name="IoNetCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simpleSocket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SerializableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleSocket.SerializableDemo" />
+      <module name="IoNetCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simpleSocket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="URLConnectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="webData.URLConnectionTest" />
+      <module name="IoNetCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="webData.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.URLConnectionTest" />
+        <item itemvalue="Application.SerializableDemo" />
+        <item itemvalue="Application.FileDemo" />
+        <item itemvalue="Application.FileReaderDemo" />
+        <item itemvalue="Application.FileCreate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d8c6b93-e3f0-4e41-ad87-aa3de159bc3f" name="Changes" comment="" />
+      <created>1715616100302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715616100302</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/IoNetCourse$SimpleSocketServer.ic" NAME="SimpleSocketServer Coverage Results" MODIFIED="1715617412694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>simpleSocket.*</FILTER>
+    </SUITE>
+  </component>
+</project>
